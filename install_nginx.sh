@@ -3,6 +3,9 @@
 #
 #
 # This is a script to install nginx and enable
+#
+
+echo "====== INSTALLING NGINX ======="
 
 sudo apt-get update
 
